@@ -1,0 +1,34 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'ReApp' do
+  use_frameworks!
+pod 'Alamofire', '~> 4.5.0'
+pod 'Bond', '~> 6.2.6'
+pod 'Charts', '~> 3.0.2'
+pod 'Eureka', '~> 3.0.0'
+pod 'FLEX', '~> 2.4.0', :configurations => ['Debug']
+pod 'Firebase/Core'
+pod 'IGListKit', '~> 3.0.0'
+pod 'Katana', '~> 0.8.6'
+pod 'Kingfisher', '~> 3.10.2'
+pod 'KeychainAccess', '~> 3.0.2'
+pod 'OAuthSwift', '~> 1.1.2'
+pod 'Permission', '~> 2.0.4'
+pod 'PromiseKit', '~> 4.2.2'
+pod 'PromiseKit/CoreLocation'
+pod 'PromiseKit/Alamofire'
+pod 'Realm', '~> 2.8.3'
+pod 'ReSwift', '~> 4.0.0'
+pod 'Reusable', '~> 4.0.0'
+pod 'R.swift'
+pod 'SDWebImage', '~> 4.0.0'
+pod 'SnapKit', '~> 3.2.0'
+pod 'Sourcery', '~> 0.7.2'
+pod 'SwiftDate', '~> 4.1.2'
+pod 'SwiftyJSON', '~> 3.1.4'
+pod 'YogaKit', '~> 1.5.0'
+
+  # Pods for ReApp
+
+end
